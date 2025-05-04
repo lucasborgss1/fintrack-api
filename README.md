@@ -5,7 +5,7 @@ Este é um sistema fullstack que ajuda usuários a controlar suas finanças, est
 ## Tecnologias
 - Java + Spring Boot
 - React.js + Vite
-- PostgreSQL
+- MySQL
 - JWT, Docker, GitHub Actions
 
 ## Funcionalidades
