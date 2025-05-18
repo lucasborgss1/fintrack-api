@@ -106,7 +106,6 @@
                 <artifactId>flyway-maven-plugin</artifactId>
                 <version>10.20.1</version>
             </plugin>
-
         </plugins>
     </build>
 

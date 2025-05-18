@@ -1,8 +1,11 @@
 package com.lucas.fintrack.api.domain.model;
 
-public enum PaymentMethod {
+public enum TransactionMethod {
     PIX,
     BANK_TRANSFER,
     CASH,
-    CREDIT
+    CREDIT,
+    DEBIT,
+    OTHER,
+    NOT_INFORMED
 }
